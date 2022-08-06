@@ -1,12 +1,9 @@
 ## This repository includes: API of the engine and examples of plugins.
 
 # Tutorial
-1. 
-`dotnet new classlib`
-2. 
-Copy the engine library to the project folder.
-3.
-Link the engine library and your plugin.
+1.`dotnet new classlib`
+2.Copy the engine library to the project folder.
+3.Link the engine library and your plugin.
 4. 
 Implement the Engine Plugin interface in the main class of your plugin.
 ```csharp
