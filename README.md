@@ -1,2 +1,1 @@
-# mantis-engine-plugin-api
-Repository with all API of the engine.
+This repository includes: API of the engine and examples of plugins.
