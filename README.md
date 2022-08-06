@@ -2,7 +2,7 @@
 
 # Tutorial
 1. 
-  ` dotnet new classlib `
+  `dotnet new classlib`
 2. 
   Copy the engine library to the project folder.
 3.
